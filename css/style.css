@@ -779,7 +779,7 @@ right: 165px
       gap: 30px 0;
    }
    .mailing-list__email {
-      width: 324px;
+      width: 270px;
    }
    .mailing-list__btn {
       padding: 10px 30px;
@@ -803,9 +803,6 @@ right: 165px
    }
    .footer__contacts {
       width: 100%;
-    
-      
-     
    }
    .footer__nav>li {
       display: flex;
@@ -822,7 +819,9 @@ right: 165px
       left: auto;       
       bottom: auto;  
    }
-  .
+  .footer__copy {
+   margin: 24px 30px 16px 0;
+  }
 }
 @media (max-width: 360px) {
    .title {
@@ -883,7 +882,7 @@ right: 165px
       min-height: auto;
    }
    .mailing-list__email{
-      width:205px
+      width:190px
    }
    .prioritise {
       padding: 50px 0;
